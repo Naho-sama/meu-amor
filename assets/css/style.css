@@ -1,0 +1,9 @@
+.no-border {
+    border: 0 !important;
+}
+.botao-escondido {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    background: #ffffff;
+  }
